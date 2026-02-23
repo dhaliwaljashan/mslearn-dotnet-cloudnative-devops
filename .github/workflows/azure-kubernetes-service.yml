@@ -10,7 +10,7 @@ env:
   AZURE_CONTAINER_REGISTRY: 'acseshopca3120'
   CONTAINER_NAME: 'productservice'
   RESOURCE_GROUP: 'rg-eshop-ca'
-  CLUSTER_NAME: 'aks-eshop'
+  CLUSTER_NAME: 'aks-eshop-ca'
   DEPLOYMENT_MANIFEST_PATH: './product.yml'
   DOCKER_PATH: './DockerfileProducts.acr'
 
